@@ -11,4 +11,4 @@ My name is Othniel
 
 💞️ I am available for Data Analyst and Data Engineering roles. Kindly reach out to me via Linkedin and Twitter.
 
-📫 How to reach me : [Linkedin](https://www.linkedin.com/in/othniel-mejabi-4a0922123), Twitter: @ottneel
+📫 How to reach me : [Linkedin](https://www.linkedin.com/in/othniel-mejabi-4a0922123), [Twitter](https://twitter.com/ottneel)
