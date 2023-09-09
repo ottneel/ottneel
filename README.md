@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Othniel
 
-👋 I'm a Data Analyst
+👋 I'm a Data Enthusiast
 
 👀 I'm interested in Data Analytics and Data Engineering.
 
