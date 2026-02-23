@@ -1,9 +1,9 @@
 ### Hello
 My name is Othniel
 
-👋 I'm a Data Enthusiast
+👋 I am a Data Scientist.
 
-👀 I'm interested in Machine Learning and all that comes with it.
+👀 I am interested in Machine Learning and all that comes with it.
 
 🎥 Outside of coding, I love to sleep (rest is very important. lol). I'm also an Avid Football Fan.
 
